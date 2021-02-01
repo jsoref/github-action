@@ -1,0 +1,7 @@
+ignore$
+(?:^|/)(?i)LICENSE
+^\.github/
+\.editorconfig$
+\.gitattributes$
+lock\.json$
+\.npmrc$
